@@ -1,4 +1,4 @@
-﻿DisplayMainMenu();
+﻿DisplayMainMenu(); 
 
 void DisplayMainMenu()
 {
